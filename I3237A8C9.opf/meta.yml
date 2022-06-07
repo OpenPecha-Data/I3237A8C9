@@ -1,0 +1,27 @@
+id: I3237A8C9
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T09:54:13+00:00'
+last_modified: '2022-06-07T15:00:50.815847+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W21873
+  title: བོད་ཀྱི་ཤེར་རྟོགས་རིག་པའི་རིགས་ཤེས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    444F:
+      image_group_id: I1KG23233
+      title: ''
+      total_pages: 268
+      order: 1
+      base_file: 444F.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
